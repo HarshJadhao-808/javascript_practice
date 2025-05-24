@@ -1,8 +1,11 @@
-let a = 2;
+let a = 0;
 
 if (a < 10) {
   console.log(a, " is less than 10");
-} else {
+}
+
+
+else {
   console.log(a, " is greater than 10");
 }
 
@@ -11,3 +14,7 @@ if (a % 2 == 0) {
 } else {
   console.log(a, " is  a odd number");
 }
+
+
+    
+  

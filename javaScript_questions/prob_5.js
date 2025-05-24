@@ -1,4 +1,4 @@
-let a = 56;
+let a = 6;
 
 let b = a - 1;
 
