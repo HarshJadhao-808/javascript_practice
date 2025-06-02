@@ -1,0 +1,10 @@
+// 6.	6. Count how many odd numbers are in an array. 
+
+let arr = [1, 2, 3, 4, 5, 6, 7, 8];
+let count = 0;
+for (i = 0; i < arr.length; i++) {
+  if (arr[i] % 2 == 1) {
+    count++;
+  }
+}
+console.log(count);
